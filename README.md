@@ -24,4 +24,4 @@ In **Identification_Parhyale_germline_transcripts.nb** are the files and scripts
 
 Please email *alexjapes@gmail.com* if there is any problem, thanks! (Manuel)
 
-This is a tool to view the html files.
+[This](https://htmlpreview.github.io/) is a tool to view the html files. 
