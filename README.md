@@ -10,8 +10,12 @@ In **Integration_transcriptomes.nbs** are the files and scripts used:
 - To visualise the mRNA fate during the transition form 4 to 8 cell embryos. This part can also includes the option to interactively display the figure using plotly function.
 
 In **Identification_Parhyale_germline_transcripts.nb** are the files and scripts used: 
-
-
-In **coevolving_coordination** are the files for Fig.S4: */codes* contains source codes for running time series and the heatmap, while */data* contains raw data and plotting codes. In terms of the source codes, please *do not* change the relative location of these files as the random number generators files (dSFMT) are required for running, and **please read** the notes at the beginning of each file, containing the key parameters and notes. For the data files, the two heatmaps of coordination levels and proportion of helpers are plotted from *level_sumary.csv*, you may use the files in *R_files* to replot the figures. If you wish to generate your own *level_summary.csv*, please assign the folders as in *data/Fig4_levelplot* and run *cord_ss.c* for each group size separately. The *merge_summaries.R* would help you create the *level_summary.csv* file. 
+- Identify asymmetrically localised transcripts in each 8-cell stage blastomere
+- To estimate FoldChange expression between target blastomer and the other 7. The SD was used to define and enrichment threshold
+- To use the SD threshold to call enriched transcripts.
+- To visualise the expression of blastomere specific genes using clustering methods at both 4- and 8- cell stages
+- To visualise the expression of blastomere specific genes using clustering methods acroos multiple developmental time-points
+- To summarise and visualise specific genes average expressiona across embryogenesis
+- To analyse MEEM suite motif enrichment output. This part aimed to summarise the location ot known and unknown RNA-binding sites within blastomer-specific 3UTR
 
 Please email *alexjapes@gmail.com* if there is any problem, thanks! (Manuel)
