@@ -2,12 +2,12 @@
 This repository contains the scripts used for the analysis of blastomere-specific transcripts localisation during early embryogenesis. The notebooks also generates figures summarising main results.
 
 In **Integration_transcriptomes.nbs** are the files and scripts used:
-To run RNA-seq expressioon quantification for each blastomere-specific library. The blastomer IDs for 4-cell embryos are Emr, Eml, Epen and Mavg; 8-cell blastomeres are named El, Er, Ep, Mr, Ml, Mav, g and en. Raw treads were previously mapped to reference genome using *HISTA2*
-To estimate libraries statistics
-To run Principal component analysis
-Integration of quantification matrix from 4- and 8- cell stages
-Annotation of quantified transcripts using FlyBase gene IDs
-To visualise the mRNA fate during the transition form 4 to 8 cell embryos. This part can also includes the option to interactively display the figure using plotly function.
+- To run RNA-seq expressioon quantification for each blastomere-specific library. The blastomer IDs for 4-cell embryos are Emr, Eml, Epen and Mavg; 8-cell blastomeres are named El, Er, Ep, Mr, Ml, Mav, g and en. Raw treads were previously mapped to reference - genome using *HISTA2*
+- To estimate libraries statistics
+- To run Principal component analysis
+- Integration of quantification matrix from 4- and 8- cell stages
+- Annotation of quantified transcripts using FlyBase gene IDs
+- To visualise the mRNA fate during the transition form 4 to 8 cell embryos. This part can also includes the option to interactively display the figure using plotly function.
 
 In **Identification_Parhyale_germline_transcripts.nb** are the files and scripts used: 
 
