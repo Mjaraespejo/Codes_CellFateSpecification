@@ -23,3 +23,5 @@ In **Identification_Parhyale_germline_transcripts.nb** are the files and scripts
 - To analyse MEME suite motif enrichment output. This part aimed to summarise the location ot known and unknown RNA-binding sites within blastomer-specific 3UTR
 
 Please email *alexjapes@gmail.com* if there is any problem, thanks! (Manuel)
+
+This is a tool to view the html files.
