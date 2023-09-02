@@ -2,7 +2,7 @@
 This repository contains the scripts used for the analysis of blastomere-specific transcripts localisation during early embryogenesis. The notebooks also generates figures summarising main results.
 
 In **Integration_transcriptomes.nb** are the files and scripts used:
-- To run RNA-seq expressioon quantification for each blastomere-specific library. The blastomer IDs for 4-cell embryos are Emr, Eml, Epen and Mavg; 8-cell blastomeres are named El, Er, Ep, Mr, Ml, Mav, g and en. Raw treads were previously mapped to reference - genome using *HISTA2*
+- To run RNA-seq expressioon quantification for each blastomere-specific library. The blastomer IDs for 4-cell embryos are Emr, Eml, Epen and Mavg; 8-cell blastomeres are named El, Er, Ep, Mr, Ml, Mav, g and en. Raw treads were previously mapped to reference genome using *HISTA2*
 - To estimate libraries statistics
 - To run Principal component analysis
 - Integration of quantification matrix from 4- and 8- cell stages
