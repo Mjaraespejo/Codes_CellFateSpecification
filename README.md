@@ -11,7 +11,7 @@ In **Integration_transcriptomes.nb** are the files and scripts used:
 
 In **UTR analysis on asymmetric genes.nb** are the files and scripts used:
 - To extract UTR sequences from annotated protein-coding genes and run stats
-- To perfomr motif enrichment using MEME suite.
+- To perfomr motif enrichment using MEME suite. Enriched RNA-binding protein (RBP) recognitiion motifs were identified in each set of transcripts.
 
 In **Identification_Parhyale_germline_transcripts.nb** are the files and scripts used: 
 - Identify asymmetrically localised transcripts in each 8-cell stage blastomere
