@@ -20,7 +20,7 @@ In **Identification_Parhyale_germline_transcripts.nb** are the files and scripts
 - To visualise the expression of blastomere specific genes using clustering methods at both 4- and 8- cell stages
 - To visualise the expression of blastomere specific genes using clustering methods acroos multiple developmental time-points
 - To summarise and visualise specific genes average expressiona across embryogenesis
-- To analyse MEME suite motif enrichment output. This part aimed to summarise the location ot known and unknown RNA-binding sites within blastomer-specific 3UTR
+- To analyse MEME suite motif enrichment output. This part aimed to summarise the location ot known and unknown RNA-binding sites within blastomere-specific 3UTR
 
 Please email *alexjapes@gmail.com* if there is any problem, thanks! (Manuel)
 
